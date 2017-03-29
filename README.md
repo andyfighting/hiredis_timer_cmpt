@@ -7,10 +7,12 @@
        make redis_timer
 ```
  
-```Bash
-      ./redis_timer -h 
-```
 # How to use:
+```Bash
+      ./redis_timer -h
+      eg: ./redis_timer -i 192.168.0.100 -p 6339 -a 123456
+```
+
 ![image](https://github.com/andyfighting/hiredis_timer_cmpt/blob/master/picsrc/redis_timer.jpg)
 
 
